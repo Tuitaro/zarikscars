@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1258",
-    "currentPage": "GTR.html",
+    "currentPage": "storetemp.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -943,7 +943,7 @@
           "description4": "More details",
           "button1": "<a data-app-btn=\"true\" href=\"WRX.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">CHECK OUT</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">CHECK OUT</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"GTR.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">CHECK OUT</a>",
           "button2": "<a data-app-btn=\"true\" href=\"gt86.html\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">CHECK OUT</a>",
           "_tags": [
             "Theme"
