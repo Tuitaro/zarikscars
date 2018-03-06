@@ -74,7 +74,7 @@
           },
           "title": "Zariks Car Store",
           "text": "Only the best sports cars for you",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://google.co.nz\" data-toolbar=\"-mbrBtnMove\">SHOP NOW</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"storetemp.html\" data-toolbar=\"-mbrBtnMove\">SHOP NOW</a>",
           "_tags": [
             "Theme"
           ],
