@@ -692,6 +692,15 @@ h6,
 #pricing-table2-a .mbr-section__container .mbr-section-subtitle {
   color: #ffffff;
 }
+#features1-2a .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-2a .mbr-cards-col:nth-child(odd) .card-text {
+  font-size: 60px;
+}
+#features1-2a .mbr-cards-col:nth-child(even) .card-text {
+  font-size: 60px;
+}
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
