@@ -1,0 +1,1376 @@
+{
+  "settings": {
+    "name": "Site-02-20_1258",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#f1857f",
+        "secondaryColor": "#2de7c2",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#b8312f",
+        "dangerColor": "#f28281",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#bfcecb",
+        "#f1857f",
+        "#2de7c2"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 36,
+    "versionPublish": "4.6.5",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Connor/Google%20Drive/zarik%20cars"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallhaven-418882-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/6K2FTyawvbY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=6K2FTyawvbY",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Zariks Car Store",
+          "text": "Only the best sports cars for you",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://google.co.nz\" data-toolbar=\"-mbrBtnMove\">TEST BUTTON</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1857f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"storetemp.html\">Store</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "575 Chapel Rd, Howick, Auckland 2016",
+              "placeId": "ChIJfXC1X55MDW0RlH0lrSQ0pdU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n575 Chapel Rd<br> Howick<br> Auckland 2016<br><br><br>\n<strong>Contacts</strong><br>\nEmail: zarik@carsstore.com<br>\nPhone: +64 09 123 4567<br>\nFax: ----",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>1</li><li>2</li><li>3</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5"
+        }
+      ]
+    },
+    "gt86.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "GT86",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1857f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"storetemp.html\">Store</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallhaven-536978-2000x1124.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wallhaven-323502-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://youtu.be/gWTos3i-4Co?t=30s",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "TOYOTA GT 86",
+          "text": "Pure japanese speed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-d"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gt86-hero-overview-1200x420.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FROM (RSP)<div>$49,190</div>",
+          "text": "FINANCE FROM\n<br>$235.10 p/w",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.toyota.co.nz/our-range/86/gt86/specifications/gt86/\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Specifications",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>MECHANICAL SPECIFICATIONS</b></p><p><b><br></b></p><p><b>\n</b></p><p>Petrol, 2.0L, 4 cylinder, boxer engine, 16 valve, Double Overhead Cam (DOHC) with </p><p>Dual Variable Valve Timing Control (VVT-I) and D-4S Direct Injection System.\n</p><p>\n</p><p>Maximum Power – Manual: 152kW at 7000rpm. Automatic: 147kW at 7000rpm\n</p><p><br></p><p>Maximum Torque - Manual: 212Nm at 6400-6800rpm. Automatic: 205Nm at 6400-6600 rpm\n</p><p><br></p><p>Fuel consumption* – Urban/Extra-Urban/Combined (ADR 81/02): Manual: 11.5/6.7/8.4 L/100km. Automatic: 9.6/5.7/7.1 L/100km\n</p><p><br></p><p>CO2 emissions - Combined (ADR 79/04):</p><p> </p><p><br></p><p>Manual: 194g/km. Automatic: 164g/km \n</p><p><br></p><p>Exhaust emission standard – Euro 5\n</p><p><br></p><p>Fuel type and capacity - 50L Tank capacity. 98 octane petrol recommended (95 or higher is acceptable).</p>",
+          "text2": "<p><b>TRANSMISSION</b></p><p><b><br></b></p><p><b>\n</b></p><p>Manual\n</p><p>6-speed manual transmission\n</p><p>Acceleration – From 0 to 100km/h in 7.4 seconds\n</p><p><br></p><p>Rear Limited Slip Differential (LSD)\n</p><p><br></p><p>Track drive mode.\n</p><p><br></p><p><br></p><p>Automatic\n</p><p>6-speed multi-mode automatic transmission with blipping downshift control and flex lock up control \n</p><p><br></p><p>Acceleration – From 0 to 100km/h in 8.2 seconds\n</p><p><br></p><p>Rear Limited Slip Differential (LSD)\n</p><p>Sport, Snow and Track driving modes.</p>",
+          "text3": "<p><b>BRAKES AND SUSPENSION\n</b></p><p><b><br></b></p><p>Front – Power assisted ventilated brakes</p><p><br></p><p>\n</p><p>Rear – Power assisted ventilated disc brakes\n</p><p>Anti-lock Braking System (ABS) with </p><p><br></p><p>Electronic Brake Force Distribution (EBD) and Brake Assist (BA)</p><p><br></p><p><span style=\"font-size: 1.07rem;\">Vehicle Stability Control (VSC) &nbsp;and Traction Control (TRC)</span><br></p><p><br></p><p>Hill-start Assist Control (HAC)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>WHEELS\n</b></p><p><b><br></b></p><p>17” lightweight bright machine finished gun metallic alloy wheels with 215/45/R17 tyres.\n</p><p><br></p><p>Temporary spare wheel.</p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\"><b>OTHER EXTERIOR FEATURES&nbsp;</b></span></p><p><br></p><p>The GT86 looks the way it does for a reason — it's ultra-low Centre of Gravity (COG). Having a centre-point just 400mm off the ground spells Fun, with a capital 'F'. It has ground clearance of 130mm, with a low stance that reduces overall body roll and provides sharper vehicle response to driver commands. The GT86 literally does what you tell it to.\r</p><p>\r</p><p>Doors with smart key sensors.\r</p><p><br></p><p>Aluminium wing-type raised rear boot spoiler\r</p><p><br></p><p>Power exterior rear view mirrors with manual retract function\r</p><p><br></p><p>Dual stainless steel conrod inspired 86mm muffler tips\r</p>",
+          "text3": "<p>Headlights – Bi-Beam LED with automatic headlight levelling and pop-up cleaners. </p><p><br></p><p>LED Daytime Running Lights (DRL)\n</p><p><br></p><p>LED front fog lamps\n</p><p><br></p><p>LED light guide rear tail lights\n</p><p><br></p><p>The ‘Pagoda style’ concave roof design is designed to control airflow over the upper part of the car while contributing to high body rigidity and lighter weight\n</p><p><br></p><p>Rear privacy glass\n</p><p><br></p><p>Windscreen wipers – Washer-linked variable intermittent wipers.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>INTERIOR FEATURES AND CONVENIENCE\r</b></p><p><br></p><p>The driver’s cockpit is an uncluttered, performance-orientated cocoon that instantly transports you to a different realm: a place of untold excitement, where your mastery of the road and a burning desire to drive are all that matters.\r</p><p>\r</p><p>Interior trims\r</p><p>Black alcantara and leather accented seat material with alcantara shoulder supports\r</p><p>Or red and black alcantara and leather accented main seat material with alcantara shoulder supports\r.</p><p><br></p><p>Grand Lux ornamentation – Sports style 3-spoke leather steering wheel, audio and MID switches, tilt and telescopic manual functions.\r</p><p><br></p><p>Cruise control\r</p>",
+          "text2": "<p><br></p><p><br></p><p>Dual zone climate control air conditioning\n</p><p>\n</p><p>Smart key and push start button\n</p><p>\n</p><p>Sports style seats. Driver’s seat with slide, recline and vertical height adjustment. Front passenger with slide, recline with easy entry system.\n</p><p>\n</p><p>Rear seats with single folding function creates a flat floor access to the boot\n</p><p>\n</p><p>Inside rear view mirror – frameless with manual anti-glare function\n</p><p>\n</p><p>Storage – Centre console tray, cup holders, door pockets with 500ml bottle holders and glove box</p>",
+          "text3": "<p><span style=\"font-size: 1.07rem;\"><b>GAUGES &amp; METERS&nbsp;</b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">3 ring gauge style meter featuring a digital and analogue speedometer. &nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span><span style=\"font-size: 1.07rem;\"><b><br></b></span></p><p>4.2” colour TFT Multi Information Display (MID)[?]  features outside temperature, digital trip meter, current and average fuel consumption, G Meter, Torque curve and Stopwatch.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>AUDIO\n</b></p><p><b><br></b></p><p>6.1\" Touchscreen display audio with radio, single disc CD player, USB connection, Bluetooth handsfree phone capability, audio streaming and phone book access capability. </p><p><br></p><p>Six speakers.\n</p><p><br></p><p>Satellite navigation including SUNA Traffic - Only available in selected regions.</p>",
+          "text2": "<p><b>SAFETY &amp; SECURITY\r</b></p><p><div><br></div><div>7 airbags, including a driver's knee airbag, as well as sports 'bucket' style seats with aggressive bolsters for excellent support whilst cornering\r</div><div><br></div><div>2 ISOFIX child seat fixing points and 2 tether anchors\r</div><div>Front seat-belt emergency locking retractors, pre-tensioners and force limiters provide added protection\r</div><div><br></div><div>Wireless central door locking with smart key system and push button engine start\r</div><div><br></div><div>Reversing camera (display within the audio screen)\r</div><div><br></div><div>Engine immobiliser.</div></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "575 Chapel Rd, Howick, Auckland 2016",
+              "placeId": "ChIJfXC1X55MDW0RlH0lrSQ0pdU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n575 Chapel Rd<br> Howick<br> Auckland 2016<br><br><br>\n<strong>Contacts</strong><br>\nEmail: zarik@carsstore.com<br>\nPhone: +64 09 123 4567<br>\nFax: ----",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>1</li><li>2</li><li>3</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Contact Us",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"storetemp.html\">Store</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "575 Chapel Rd, Howick, Auckland 2016",
+              "placeId": "ChIJfXC1X55MDW0RlH0lrSQ0pdU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n575 Chapel Rd<br> Howick<br> Auckland 2016<br><br><br>\n<strong>Contacts</strong><br>\nEmail: zarik@carsstore.com<br>\nPhone: +64 09 123 4567<br>\nFax: ----",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>1</li><li>2</li><li>3</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Send An Email</b></span></font>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "tuitara01@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Connor Barratt",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-7"
+        }
+      ]
+    },
+    "storetemp.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Store",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1857f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"storetemp.html\">Store</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title P": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallhaven-48258-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<p>Wide range of sports grade cars!</p>",
+          "caption": "<p>Only the best sports cars are sold here from a wide range of countries and brands.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallhaven-474375-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Modifications!",
+          "caption": "<p>We have modifications for our top range of cars!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-9"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallhaven-423195-2000x1253.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "description1": "More details",
+          "description2": "More details",
+          "description3": "More details",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">CHECK OUT</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://paypal.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">CHECK OUT</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"storetemp.html#pricing-table2-a\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"gt86.html\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">CHECK OUT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Cars",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "Subaru WRX SLT",
+          "title2": "Toyota GT86",
+          "title3": "Mitsubishi Lancer",
+          "title4": "Honda Civic Type R",
+          "subtitle1": "From",
+          "subtitle2": "From",
+          "subtitle3": "From",
+          "subtitle4": "From",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "48000",
+          "price2": "49000",
+          "price3": "0",
+          "price4": "59900",
+          "period1": "",
+          "period2": "",
+          "period3": "",
+          "period4": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Fast Speed</li><li class=\"list-group-item\">2</li><li class=\"list-group-item\">3</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Japanese</li><li class=\"list-group-item\">2</li><li class=\"list-group-item\">3</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">2</span></li><li class=\"list-group-item\">3</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1</li><li class=\"list-group-item\"><span style=\"background-color: initial; font-size: 0.875rem;\">2</span></li><li class=\"list-group-item\">3</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-a"
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Privacy",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1857f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"storetemp.html\">Store</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cookies",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Cookie Policy for Zariks Cars</b></p><p><br></p><p>\n</p><p><b>What Are Cookies\n</b></p><p>\n</p><p>As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.\n</p><p>\n</p><p>For more general information on cookies see the Wikipedia article on HTTP Cookies.</p><p><br></p><p>\n</p><p>\n</p><p><b>How We Use Cookies\n</b></p><p>\n</p><p>We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.</p><p><br></p><p>\n</p><p>\n</p><p><b>Disabling Cookies\n</b></p><p>\n</p><p>You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.</p><p><br></p><p>\n</p><p>\n</p><p><b>The Cookies We Set\n</b></p><p>\n</p><p>This site offers e-commerce or payment facilities and some cookies are essential to ensure that your order is remembered between pages so that we can process it properly.\n</p><p>\n</p><p>When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.\n</p><p>\n</p><p>In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.</p><p><br></p><p>\n</p><p>\n</p><p><b>Third Party Cookies\n</b></p><p>\n</p><p>In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.\n</p><p>\n</p><p>From time to time we test new features and make subtle changes to the way that the site is delivered. When we are still testing new features these cookies may be used to ensure that you receive a consistent experience whilst on the site whilst ensuring we understand which optimisations our users appreciate the most.\n</p><p>\n</p><p>In some cases we may provide you with custom content based on what you tell us about yourself either directly or indirectly by linking a social media account. These types of cookies simply allow us to provide you with content that we feel may be of interest to you.</p><p><br></p><p>\n</p><p>\n</p><p><b>More Information\n</b></p><p>\n</p><p>Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.\n</p><p>\n</p><p>However if you are still looking for more information then you can contact us through one of our preferred contact methods.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Type R",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f1857f!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"storetemp.html\">Store</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallhaven-550258-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wallhaven-323502-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=KaUm2jFbS-k",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "HONDA CIVIC TYPE R",
+          "text": "HATCH",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-s"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallhaven-585221-1600x1067.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FROM (RSP)<div>$59,900</div>",
+          "text": "FINANCE FROM\n<br>$ n/a",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.honda.co.nz/contact-us/find-a-dealer/\" data-toolbar=\"-mbrBtnMove\">Buy Now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Specifications",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>ENGINE PERFORMANCE\n</b></p><p><b><br></b></p><p>2.0 litre, 4 Cylinder, 16 valve, VTEC Turbo, intercooled, chain drive DOHC</p><p><br></p><p>EarthDreams Direct Injection Technology</p><p><br></p><p>Maximum Power (kW/rpm) 228 @ 6500\n</p><p>Maximum Torque (Nm/rpm) 400 @ 2500-4500</p><p><br></p><p>\n</p><p>Fuel Type (Octane Rating) 95</p><p><br></p><p>\n</p><p>Type R Exclusive Exhaust System (Central Exit, Triple Tip)</p><p><br></p><p>+R Driving Mode (3 Mode System with Comfort, Sport &amp; +R)</p>",
+          "text2": "<p><b>TRANSMISSION</b></p><p><br></p><p>6 Speed Manual Transmission with Oil Cooler</p><p><br></p><p><span style=\"font-size: 1.07rem;\">Limited Slip Diff (LSD) (Helical Type) &nbsp;</span></p><p><br></p><p>Rev-match Control System</p>",
+          "text3": "<p><b>BRAKES AND SUSPENSION\n</b></p><p><br></p><p>Brembo Calipers (4 Piston) - 350mm Rotors&nbsp;</p><p><br></p><p>Solid 305mm Rotors Rear</p><p><br></p><p>\n</p><p>Brake Cooling Ducts Front &amp; Rear</p><p><br></p><p>\n</p><p>Electric Parking Brake with Electronic Brake Hold</p><p><br></p><p>Suspension Type - Front Dual Axis Strut, Rear Multi-link Independent</p><p><br></p><p>Lightweight, High Rigidy Suspension &amp; Frame</p><p><br></p><p>Type R Exclusive Suspension (Dampers, Springs, Stablizers &amp; Bushings)</p><p><br></p><p>Adaptive Suspension System</p><p><br></p><p>Variable Gear Ratio Electronic Power Steering (EPS)</p><p><br></p><p>Vehicle Stability Assist (VSA) with Traction Control (TCS)</p><p><br></p><p>Agile Handling Assist (AHA)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>WHEELS\n</b></p><p><b><br></b></p><p>17” lightweight bright machine finished gun metallic alloy wheels with 215/45/R17 tyres.\n</p><p><br></p><p>Temporary spare wheel.</p>",
+          "text2": "<p><span style=\"font-size: 1.07rem;\"><b>OTHER EXTERIOR FEATURES&nbsp;</b></span></p><p><br></p><p>The GT86 looks the way it does for a reason — it's ultra-low Centre of Gravity (COG). Having a centre-point just 400mm off the ground spells Fun, with a capital 'F'. It has ground clearance of 130mm, with a low stance that reduces overall body roll and provides sharper vehicle response to driver commands. The GT86 literally does what you tell it to.\r</p><p>\r</p><p>Doors with smart key sensors.\r</p><p><br></p><p>Aluminium wing-type raised rear boot spoiler\r</p><p><br></p><p>Power exterior rear view mirrors with manual retract function\r</p><p><br></p><p>Dual stainless steel conrod inspired 86mm muffler tips\r</p>",
+          "text3": "<p>Headlights – Bi-Beam LED with automatic headlight levelling and pop-up cleaners. </p><p><br></p><p>LED Daytime Running Lights (DRL)\n</p><p><br></p><p>LED front fog lamps\n</p><p><br></p><p>LED light guide rear tail lights\n</p><p><br></p><p>The ‘Pagoda style’ concave roof design is designed to control airflow over the upper part of the car while contributing to high body rigidity and lighter weight\n</p><p><br></p><p>Rear privacy glass\n</p><p><br></p><p>Windscreen wipers – Washer-linked variable intermittent wipers.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>INTERIOR FEATURES AND CONVENIENCE\r</b></p><p><br></p><p>The driver’s cockpit is an uncluttered, performance-orientated cocoon that instantly transports you to a different realm: a place of untold excitement, where your mastery of the road and a burning desire to drive are all that matters.\r</p><p>\r</p><p>Interior trims\r</p><p>Black alcantara and leather accented seat material with alcantara shoulder supports\r</p><p>Or red and black alcantara and leather accented main seat material with alcantara shoulder supports\r.</p><p><br></p><p>Grand Lux ornamentation – Sports style 3-spoke leather steering wheel, audio and MID switches, tilt and telescopic manual functions.\r</p><p><br></p><p>Cruise control\r</p>",
+          "text2": "<p><br></p><p><br></p><p>Dual zone climate control air conditioning\n</p><p>\n</p><p>Smart key and push start button\n</p><p>\n</p><p>Sports style seats. Driver’s seat with slide, recline and vertical height adjustment. Front passenger with slide, recline with easy entry system.\n</p><p>\n</p><p>Rear seats with single folding function creates a flat floor access to the boot\n</p><p>\n</p><p>Inside rear view mirror – frameless with manual anti-glare function\n</p><p>\n</p><p>Storage – Centre console tray, cup holders, door pockets with 500ml bottle holders and glove box</p>",
+          "text3": "<p><span style=\"font-size: 1.07rem;\"><b>GAUGES &amp; METERS&nbsp;</b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">3 ring gauge style meter featuring a digital and analogue speedometer. &nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span><span style=\"font-size: 1.07rem;\"><b><br></b></span></p><p>4.2” colour TFT Multi Information Display (MID)[?]  features outside temperature, digital trip meter, current and average fuel consumption, G Meter, Torque curve and Stopwatch.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>AUDIO\n</b></p><p><b><br></b></p><p>6.1\" Touchscreen display audio with radio, single disc CD player, USB connection, Bluetooth handsfree phone capability, audio streaming and phone book access capability. </p><p><br></p><p>Six speakers.\n</p><p><br></p><p>Satellite navigation including SUNA Traffic - Only available in selected regions.</p>",
+          "text2": "<p><b>SAFETY &amp; SECURITY\r</b></p><p><div><br></div><div>7 airbags, including a driver's knee airbag, as well as sports 'bucket' style seats with aggressive bolsters for excellent support whilst cornering\r</div><div><br></div><div>2 ISOFIX child seat fixing points and 2 tether anchors\r</div><div>Front seat-belt emergency locking retractors, pre-tensioners and force limiters provide added protection\r</div><div><br></div><div>Wireless central door locking with smart key system and push button engine start\r</div><div><br></div><div>Reversing camera (display within the audio screen)\r</div><div><br></div><div>Engine immobiliser.</div></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "575 Chapel Rd, Howick, Auckland 2016",
+              "placeId": "ChIJfXC1X55MDW0RlH0lrSQ0pdU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n575 Chapel Rd<br> Howick<br> Auckland 2016<br><br><br>\n<strong>Contacts</strong><br>\nEmail: zarik@carsstore.com<br>\nPhone: +64 09 123 4567<br>\nFax: ----",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>1</li><li>2</li><li>3</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-z"
+        }
+      ]
+    }
+  }
+}
