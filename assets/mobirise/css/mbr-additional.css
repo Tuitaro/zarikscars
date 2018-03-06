@@ -678,6 +678,23 @@ h6,
 #features1-2a .mbr-cards-col:nth-child(even) .card-text {
   font-size: 60px;
 }
+#features1-2b .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-2b .mbr-cards-col:nth-child(odd) .card-title {
+  color: #282828;
+}
+#features1-2b .mbr-cards-col:nth-child(odd) .card-text {
+  color: #282828;
+  font-size: 60px;
+}
+#features1-2b .mbr-cards-col:nth-child(even) .card-text {
+  color: #ffffff;
+  font-size: 60px;
+}
+#features1-2b .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
