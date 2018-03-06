@@ -669,29 +669,6 @@ h6,
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #f1857f!important;
 }
-#pricing-table2-a .mbr-plan-header,
-#pricing-table2-a .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-a ul,
-#pricing-table2-a .mbr-plan-title,
-#pricing-table2-a .mbr-price-value,
-#pricing-table2-a .mbr-price-figure,
-#pricing-table2-a .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-a .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-a .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-a .mbr-section__container .mbr-section-title {
-  color: #ffffff;
-}
-#pricing-table2-a .mbr-section__container .mbr-section-subtitle {
-  color: #ffffff;
-}
 #features1-2a .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
