@@ -1007,7 +1007,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wallhaven-3709-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallhaven-3711-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1018,7 +1018,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wallhaven-208233-600x375.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallhaven-208234-600x375.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1029,7 +1029,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wallhaven-359382-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/wallhaven-359383-600x375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1040,7 +1040,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wallhaven-500235-600x375.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wallhaven-500236-600x375.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1066,13 +1066,13 @@
             }
           },
           "title1": "Subaru WRX STI",
-          "subtitle1": "WRX STI Base\r<div>WRX STI Premium</div>",
+          "subtitle1": "WRX STI Base\n<div>WRX STI Premium</div><div><br></div>",
           "caption1": "$59990",
           "title2": "Toyota GT86",
-          "subtitle2": "Base\n<div>Automatic or Manual</div>",
+          "subtitle2": "Base\n<div>Automatic or Manual</div><div><br></div>",
           "caption2": "$49000",
           "title3": "Nissan GTR R35 2018",
-          "subtitle3": "Pure (Base)\r<div>Premium\r</div><div>Track Edition</div>",
+          "subtitle3": "Pure (Base)\n<div>Premium\n</div><div>Track Edition</div>",
           "caption3": "$152000",
           "title4": "Honda Civic Type R",
           "subtitle4": "Base<br><br><br>",
