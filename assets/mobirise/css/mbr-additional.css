@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -411,6 +412,9 @@ h6,
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
+}
+#header1-0 .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
 }
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;

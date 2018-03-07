@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1258",
-    "currentPage": "storetemp.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -74,12 +74,18 @@
           },
           "title": "Zariks Car Store",
           "text": "Only the best sports cars for you",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"storetemp.html\" data-toolbar=\"-mbrBtnMove\">SHOP NOW</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"storetemp.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>SHOP NOW</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-0"
+          "_anchor": "header1-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
@@ -1799,7 +1805,7 @@
             "bgColor": "#fff"
           },
           "title": "Work in progress",
-          "meta": "By Connor Barratt posted March 5, 2018",
+          "meta": "By Connor Barratt posted March 8, 2018",
           "_tags": [
             "Theme"
           ],
