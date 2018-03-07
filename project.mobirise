@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1258",
-    "currentPage": "index.html",
+    "currentPage": "storetemp.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -157,9 +157,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
@@ -327,9 +328,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
@@ -657,9 +659,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
@@ -851,9 +854,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
@@ -978,16 +982,16 @@
           },
           "title1": "Subaru WRX STI",
           "subtitle1": "WRX STI Base\n<div>WRX STI Premium</div><div><br></div>",
-          "caption1": "$59990",
+          "caption1": "$59,990",
           "title2": "Toyota GT86",
           "subtitle2": "Base\n<div>Automatic or Manual</div><div><br></div>",
-          "caption2": "$49000",
+          "caption2": "$49,000",
           "title3": "Nissan GTR R35 2018",
           "subtitle3": "Pure (Base)\n<div>Premium\n</div><div>Track Edition</div>",
-          "caption3": "$152000",
+          "caption3": "$152,000",
           "title4": "Honda Civic Type R",
           "subtitle4": "Base<br><br><br>",
-          "caption4": "$59900",
+          "caption4": "$59,900",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1010,10 +1014,14 @@
               "background-color": "#2e2e2e"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
@@ -1103,16 +1111,16 @@
           },
           "title1": "Lexus LC",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "$215000",
+          "caption1": "$215,000",
           "title2": "Volkswagen GTI",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "$56,990",
           "title3": "Nissan 370Z&nbsp;",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "$49500",
+          "caption3": "$49,500",
           "title4": "Masda MX-5 Mita",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "$40995",
+          "caption4": "$40,995",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1139,11 +1147,15 @@
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#282828",
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#ffffff",
-              "font-size": "60px"
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#ffffff"
@@ -1255,9 +1267,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
@@ -1422,9 +1435,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
@@ -1905,9 +1919,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",
@@ -2356,9 +2371,10 @@
               "name": "key",
               "family": "mobirise-icons-bold",
               "link": "index.html",
-              "size": "",
+              "size": "1",
               "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "color": "#2969b0"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Zariks Car Store</a>",

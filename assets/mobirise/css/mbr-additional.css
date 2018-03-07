@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -608,6 +609,10 @@ h6,
 #menu-4 .dropdown-item[aria-expanded="true"] {
   color: #f1857f!important;
 }
+
+
+
+
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -674,9 +679,11 @@ h6,
 }
 #features1-2a .mbr-cards-col:nth-child(odd) .card-text {
   font-size: 60px;
+  font-family: 'Oswald', sans-serif;
 }
 #features1-2a .mbr-cards-col:nth-child(even) .card-text {
   font-size: 60px;
+  font-family: 'Oswald', sans-serif;
 }
 #features1-2b .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
@@ -687,10 +694,12 @@ h6,
 #features1-2b .mbr-cards-col:nth-child(odd) .card-text {
   color: #282828;
   font-size: 60px;
+  font-family: 'Oswald', sans-serif;
 }
 #features1-2b .mbr-cards-col:nth-child(even) .card-text {
   color: #ffffff;
   font-size: 60px;
+  font-family: 'Oswald', sans-serif;
 }
 #features1-2b .mbr-cards-col:nth-child(even) .card-title {
   color: #ffffff;
