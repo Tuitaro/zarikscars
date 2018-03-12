@@ -34,7 +34,7 @@
     "uniqCompNum": 84,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/72-200-128x128-1.png",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
@@ -74,7 +74,7 @@
           },
           "title": "Zariks Car Store",
           "text": "Only the best sports cars for you",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"storetemp.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>SHOP NOW</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"storetemp.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>SHOP NOW</a>",
           "_tags": [
             "Theme"
           ],
@@ -1116,16 +1116,16 @@
             }
           },
           "title1": "Lexus LC",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "subtitle1": "Test",
           "caption1": "$215,000",
           "title2": "Volkswagen GTI",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "Test",
           "caption2": "$56,990",
           "title3": "Nissan 370Z&nbsp;",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "Test",
           "caption3": "$49,500",
-          "title4": "Masda MX-5 Mita",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "title4": "Masda MX-5 (Mita)",
+          "subtitle4": "Test",
           "caption4": "$40,995",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -1805,7 +1805,7 @@
             "bgColor": "#fff"
           },
           "title": "Work in progress",
-          "meta": "By Connor Barratt posted March 8, 2018",
+          "meta": "By Connor Barratt posted March 13, 2018",
           "_tags": [
             "Theme"
           ],
