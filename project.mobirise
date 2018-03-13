@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-20_1258",
-    "currentPage": "index.html",
+    "currentPage": "storetemp.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -912,7 +912,7 @@
             "columnsColor": "#2e2e2e",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 4,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1005,7 +1005,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"WRX.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"gt86.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"gt86.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE<br></a> <a data-app-btn=\"true\" href=\"gt86.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">HOT!</a> ",
           "button3": "<a data-app-btn=\"true\" href=\"GTR.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1028,6 +1028,9 @@
               "font-size": "60px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle DIV": {
+              "font-size": "16px"
             }
           }
         },
@@ -1133,10 +1136,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">OUT OF STOCK</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [

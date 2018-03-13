@@ -689,6 +689,9 @@ h6,
   font-size: 60px;
   font-family: 'Oswald', sans-serif;
 }
+#features1-2a .mbr-cards-col:nth-child(even) .card-subtitle DIV {
+  font-size: 16px;
+}
 #features1-2b .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
